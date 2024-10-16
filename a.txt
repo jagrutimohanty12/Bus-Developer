@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hello master
+=======
+hello master
+
+helloo bro
+>>>>>>> auto-taxi
